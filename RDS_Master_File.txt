@@ -1,0 +1,3 @@
+#file to configure VPC
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_Tutorials.WebServerDB.CreateVPC.html 
+
