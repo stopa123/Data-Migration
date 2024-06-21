@@ -1,8 +1,11 @@
-#file to configure VPC
-https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_Tutorials.WebServerDB.CreateVPC.html 
+#Create a VPC for use with a DB instance (dual-stack mode)
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_Tutorials.CreateVPCDualStack.html
+
+#Connect to EC2 >> Install RDS >> Connect to RDS
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_GettingStarted.CreatingConnecting.MySQL.html#CHAP_GettingStarted.Connecting.MySQL 
 
 #Troubleshooting RDS access
 https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_Troubleshooting.html
-
+______________________________________________________________________________________________________________________________________________________________________________
 
 
