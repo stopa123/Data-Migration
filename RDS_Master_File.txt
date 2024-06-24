@@ -4,8 +4,11 @@ https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_Tutorials.CreateVPCD
 #Connect to EC2 >> Install RDS >> Connect to RDS
 https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_GettingStarted.CreatingConnecting.MySQL.html#CHAP_GettingStarted.Connecting.MySQL 
 
+#Export file to EC2 and Import DB into RDS:
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/MySQL.Procedural.Importing.NonRDSRepl.html
+______________________________________________________________________________________________________________________________________________________________________________
+
 #Troubleshooting RDS access
 https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_Troubleshooting.html
-______________________________________________________________________________________________________________________________________________________________________________
 
 
