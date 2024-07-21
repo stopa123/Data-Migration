@@ -11,3 +11,10 @@ The process includes:
 - Importing the data into your database.
 
 Happy Learning Data Gurus!!!!
+
+1.	ssh -i location_of_pem_file ec2-user@ec2-instance-public-dns-name
+2.	sudo dnf update -y
+3.	sudo dnf install mariadb105
+4.	scp -r -i pem file db_name ec2-DSN-Value: new-DB-backup-file-name 
+5.	source backup.sql;
+
